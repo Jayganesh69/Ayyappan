@@ -15,21 +15,21 @@ html, body{
   height: 154px;
 }
 .navbar-nav li{
-  padding-right: 30px;
+  padding-right: 10px;
 }
 .nav-link{
-  font-size: 1.4em !important;
+  font-size: 1.0em !important;
 }
 .carousel-inner img{
   width: 100%;
 }
 .carousel-caption {
   position: absolute;
-  top: 70%;
+  top: 60%;
   transform: translateY(-50%);
 }
 .carousel-caption h1 {
-  font-size: 500%;
+  font-size: 400%;
   text-transform: uppercase;
   text-shadow: 1px 1px 10px #000;
 }
